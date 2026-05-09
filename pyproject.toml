@@ -57,6 +57,7 @@ eval = [
 [project.scripts]
 omnivoice-infer = "omnivoice.cli.infer:main"
 omnivoice-infer-batch = "omnivoice.cli.infer_batch:main"
+omnivoice-infer-folder = "omnivoice.cli.infer_folder:main"
 omnivoice-demo = "omnivoice.cli.demo:main"
 
 [project.urls]
